@@ -1,0 +1,23 @@
+body{
+	margin: 0px;
+  	font-family: 'Montserrat', sans-serif!important;
+  	background-image: url(sign.png);
+  	background-size: cover;
+}
+.content{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 30px;
+}
+.form-wrapper{
+	border: solid 1px black;
+	width: 30%;
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: transparent;
+	border-radius: 5px 10px 0 5px;
+}
